@@ -55,7 +55,7 @@ export const SITE_CONFIG = {
     welcome: {
       label: 'Welcome to Popina',
       headline: 'Popina is a modern café and evening restaurant built around honest food, genuine hospitality and respect for where good things come from.',
-      description: 'We’re creating a space where people can slow down, connect and enjoy hospitality that feels thoughtful, comforting and real.',
+      description: 'We’ve created a space where people can slow down, connect and enjoy hospitality that feels thoughtful, comforting and real.',
       subDescription: 'A quick coffee, a long lunch, or dinner shared with friends.'
     },
     features: {
@@ -89,7 +89,7 @@ export const SITE_CONFIG = {
       p3: 'It is not sustainability as a slogan. It is a loop. A working, circular rhythm that starts with care for the land and comes back to the table.'
     },
     philosophy: {
-      quote: "Not a polished city restaurant dropped into the country. Something more useful than that. A community oasis, grown from the ground up."
+      quote: "Popina is a community oasis, grown from the ground up."
     },
     culinary: {
       label: 'Culinary Heart',
@@ -103,7 +103,7 @@ export const SITE_CONFIG = {
       p1: 'Brenda and Tony are not new to feeding people. Before Popina, they spent more than 20 years running Wellington’s Ministry of Food, followed by a stint at Missy’s Kitchen in Wanaka.',
       p2: 'Years of kitchens, service, regulars, early mornings, late finishes and knowing exactly when a table needs attention and when it needs to be left alone.',
       p3: 'Behind the scenes is a passionate team that cares deeply about hospitality, quality and creating an experience that feels welcoming, relaxed and genuine.',
-      quote: "Popina is for people who like food that makes sense."
+     
     },
     restaurant: {
       label: 'The Restaurant',
