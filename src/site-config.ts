@@ -55,7 +55,7 @@ export const SITE_CONFIG = {
     welcome: {
       label: 'Welcome to Popina',
       headline: 'Popina is a modern café and evening restaurant built around honest food, genuine hospitality and respect for where good things come from.',
-      description: 'We’re creating a space where people can slow down, connect and enjoy hospitality that feels thoughtful, comforting and real.',
+      description: 'We’ve created a space where people can slow down, connect and enjoy hospitality that feels thoughtful, comforting and real.',
       subDescription: 'A quick coffee, a long lunch, or dinner shared with friends.'
     },
     features: {
